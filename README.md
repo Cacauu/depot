@@ -14,7 +14,7 @@ To start working with the development version of Depot clone
 this repository (or fork and clone) and run Composer install
 with the `--dev` flag.
 
-    composer install --dev
+    php composer.phar install --dev
 
 To run the test suite,  execute the PHPUnit that was installed
 by Composer:
